@@ -90,3 +90,5 @@ terraform destroy
 
 **Artur Wagner**
 [LinkedIn](https://www.linkedin.com/in/arturwagnerdev/) · [trendcode.ie](https://trendcode.ie)
+
+More soon
