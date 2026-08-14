@@ -1,0 +1,7 @@
+EDITS.md
+VERCEL.md
+
+# Terraform local state/cache — not for VCS
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
